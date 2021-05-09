@@ -1,5 +1,7 @@
 # snd-testing-tool
 
+Developed for checking consistency of flow tables, backtraces of network traffic, checking switch forwarding rules, recording and replaying of all or selected traffic, and detection of network configuration changes using Node.js and Python.
+
 
 ## Desktop app
 
